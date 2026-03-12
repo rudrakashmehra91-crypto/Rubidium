@@ -1,0 +1,5 @@
+{
+  "name": "Rubidium AI Image Generation",
+  "description": "A free, high-quality AI image generation studio.",
+  "requestFramePermissions": ["camera"]
+}
